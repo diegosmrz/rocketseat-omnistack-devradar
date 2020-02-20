@@ -18,13 +18,13 @@
 </p>
 
 ## OmniStack RocketSeat
-Esse projeto foi desenvolvido com as seguintes tecnologias.
+Projeto resultado da Semana Omnistack10 desenvolvido com as tecnologias:
 
 ### BackEnd; 
-- NodeJS
+- NodeJS: 
 
 ### FrontEnd; 
-- ReactJS
+- ReactJS: 
 
 ### Mobile; 
-- ReacNative
+- ReactNative: 
